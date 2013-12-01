@@ -1,0 +1,35 @@
+/**
+ * 2011 Aug 05
+ * CSC309 - Textual Analysis
+ *
+ * CSS Document
+ *
+ * @author Kobe Sun
+ *
+ */
+ 
+body {
+	padding: 20px;
+	padding-top: 32px;
+}
+
+.x-body {
+	font-family: helvetica, tahoma, verdana, sans-serif;
+	font-size: 13px;
+}
+
+p {
+	margin-bottom: 15px;
+}
+
+h1 {
+	font-size: 18px;
+	margin-bottom: 20px;
+}
+
+h2 {
+	font-size: 14px;
+	color: #333;
+	font-weight: bold;
+	margin: 10px 0;
+}
